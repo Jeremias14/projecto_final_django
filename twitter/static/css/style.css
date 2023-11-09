@@ -1,5 +1,5 @@
 body {
-  background: #E6E8E9; /*15202b*/;
+  background: #636262; /*15202b*/;
   font-family: 'Asap', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
@@ -9,7 +9,7 @@ img {
 }
 
 .navbar {
-  background-color: #1E96EB /*#E0245E*/;
+  background-color: #6441a5 /*#E0245E*/;
 }
 
 .navbar-brand {
@@ -27,7 +27,7 @@ img {
 }
 
 .card-header {
-  background-color: #1E96EB /*#E0245E*/;
+  background-color: #6441a5 /*#E0245E*/;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -133,14 +133,14 @@ img {
 }
 
 .btn {
-  background-color: #1E96EB /*E0245E*/ ;
+  background-color: #6441a5 /*E0245E*/ ;
   border-style: none;
   font-weight: bold;
   color: white;
 }
 
 #charBadge {
-  background-color: #1E96EB /*E0245E*/;
+  background-color: #6441a5 /*E0245E*/;
   position: relative;
   left: -8px;
   font-size: 1rem;
@@ -148,12 +148,12 @@ img {
 }
 
 a:link {
-  color: #1E96EB /*E0245E*/;
+  color: #6441a5 /*E0245E*/;
   text-decoration: none;
 }
 
 .btn:hover {
-  background-color: #71C4FF;
+  background-color: #6441a5;
   color: white;
 }
 
@@ -208,7 +208,7 @@ a:link {
 }
 
 .twitter-btn{
-    background-color: #1E96EB;
+    background-color: #6441a5;
     border: none;
     width: 100%;
     padding: 15px;
@@ -221,10 +221,10 @@ a:link {
 .twitter-login-box .footer{
     text-align: center;
     margin-top: 20px;
-    color: #1E96EB;
+    color: #6441a5;
 }
 .twitter-login-box .footer a{
-    color: #1E96EB;
+    color: #6441a5;
     text-decoration: none;
 }
 
